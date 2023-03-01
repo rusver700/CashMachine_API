@@ -1,0 +1,60 @@
+C:\Users\rusve\OneDrive\Documentos\z.1Meus trabalhos\ApiCashMachine\CashMachineDomain\bin\Debug\netcoreapp3.1\CashMachineDomain.deps.json
+C:\Users\rusve\OneDrive\Documentos\z.1Meus trabalhos\ApiCashMachine\CashMachineDomain\bin\Debug\netcoreapp3.1\CashMachineDomain.dll
+C:\Users\rusve\OneDrive\Documentos\z.1Meus trabalhos\ApiCashMachine\CashMachineDomain\bin\Debug\netcoreapp3.1\CashMachineDomain.pdb
+C:\Users\rusve\OneDrive\Documentos\z.1Meus trabalhos\ApiCashMachine\CashMachineDomain\obj\Debug\netcoreapp3.1\CashMachineDomain.csproj.AssemblyReference.cache
+C:\Users\rusve\OneDrive\Documentos\z.1Meus trabalhos\ApiCashMachine\CashMachineDomain\obj\Debug\netcoreapp3.1\CashMachineDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rusve\OneDrive\Documentos\z.1Meus trabalhos\ApiCashMachine\CashMachineDomain\obj\Debug\netcoreapp3.1\CashMachineDomain.AssemblyInfoInputs.cache
+C:\Users\rusve\OneDrive\Documentos\z.1Meus trabalhos\ApiCashMachine\CashMachineDomain\obj\Debug\netcoreapp3.1\CashMachineDomain.AssemblyInfo.cs
+C:\Users\rusve\OneDrive\Documentos\z.1Meus trabalhos\ApiCashMachine\CashMachineDomain\obj\Debug\netcoreapp3.1\CashMachineDomain.csproj.CoreCompileInputs.cache
+C:\Users\rusve\OneDrive\Documentos\z.1Meus trabalhos\ApiCashMachine\CashMachineDomain\obj\Debug\netcoreapp3.1\CashMachineDomain.dll
+C:\Users\rusve\OneDrive\Documentos\z.1Meus trabalhos\ApiCashMachine\CashMachineDomain\obj\Debug\netcoreapp3.1\CashMachineDomain.pdb
+C:\_TestesGitHub\CashMachine\CashMachineDomain\bin\Debug\netcoreapp3.1\CashMachineDomain.deps.json
+C:\_TestesGitHub\CashMachine\CashMachineDomain\bin\Debug\netcoreapp3.1\CashMachineDomain.dll
+C:\_TestesGitHub\CashMachine\CashMachineDomain\bin\Debug\netcoreapp3.1\CashMachineDomain.pdb
+C:\_TestesGitHub\CashMachine\CashMachineDomain\obj\Debug\netcoreapp3.1\CashMachineDomain.csproj.AssemblyReference.cache
+C:\_TestesGitHub\CashMachine\CashMachineDomain\obj\Debug\netcoreapp3.1\CashMachineDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\_TestesGitHub\CashMachine\CashMachineDomain\obj\Debug\netcoreapp3.1\CashMachineDomain.AssemblyInfoInputs.cache
+C:\_TestesGitHub\CashMachine\CashMachineDomain\obj\Debug\netcoreapp3.1\CashMachineDomain.AssemblyInfo.cs
+C:\_TestesGitHub\CashMachine\CashMachineDomain\obj\Debug\netcoreapp3.1\CashMachineDomain.csproj.CoreCompileInputs.cache
+C:\_TestesGitHub\CashMachine\CashMachineDomain\obj\Debug\netcoreapp3.1\CashMachineDomain.dll
+C:\_TestesGitHub\CashMachine\CashMachineDomain\obj\Debug\netcoreapp3.1\CashMachineDomain.pdb
+C:\Users\rusve\OneDrive\Documentos\MeusProjetos\CashMachine\CashMachineDomain\bin\Debug\netcoreapp3.1\CashMachineDomain.deps.json
+C:\Users\rusve\OneDrive\Documentos\MeusProjetos\CashMachine\CashMachineDomain\bin\Debug\netcoreapp3.1\CashMachineDomain.dll
+C:\Users\rusve\OneDrive\Documentos\MeusProjetos\CashMachine\CashMachineDomain\bin\Debug\netcoreapp3.1\CashMachineDomain.pdb
+C:\Users\rusve\OneDrive\Documentos\MeusProjetos\CashMachine\CashMachineDomain\obj\Debug\netcoreapp3.1\CashMachineDomain.csproj.AssemblyReference.cache
+C:\Users\rusve\OneDrive\Documentos\MeusProjetos\CashMachine\CashMachineDomain\obj\Debug\netcoreapp3.1\CashMachineDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rusve\OneDrive\Documentos\MeusProjetos\CashMachine\CashMachineDomain\obj\Debug\netcoreapp3.1\CashMachineDomain.AssemblyInfoInputs.cache
+C:\Users\rusve\OneDrive\Documentos\MeusProjetos\CashMachine\CashMachineDomain\obj\Debug\netcoreapp3.1\CashMachineDomain.AssemblyInfo.cs
+C:\Users\rusve\OneDrive\Documentos\MeusProjetos\CashMachine\CashMachineDomain\obj\Debug\netcoreapp3.1\CashMachineDomain.csproj.CoreCompileInputs.cache
+C:\Users\rusve\OneDrive\Documentos\MeusProjetos\CashMachine\CashMachineDomain\obj\Debug\netcoreapp3.1\CashMachineDomain.dll
+C:\Users\rusve\OneDrive\Documentos\MeusProjetos\CashMachine\CashMachineDomain\obj\Debug\netcoreapp3.1\CashMachineDomain.pdb
+C:\_TestesGitHub1\Caixa\CashMachineDomain\bin\Debug\netcoreapp3.1\CashMachineDomain.deps.json
+C:\_TestesGitHub1\Caixa\CashMachineDomain\bin\Debug\netcoreapp3.1\CashMachineDomain.dll
+C:\_TestesGitHub1\Caixa\CashMachineDomain\bin\Debug\netcoreapp3.1\CashMachineDomain.pdb
+C:\_TestesGitHub1\Caixa\CashMachineDomain\obj\Debug\netcoreapp3.1\CashMachineDomain.csproj.AssemblyReference.cache
+C:\_TestesGitHub1\Caixa\CashMachineDomain\obj\Debug\netcoreapp3.1\CashMachineDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\_TestesGitHub1\Caixa\CashMachineDomain\obj\Debug\netcoreapp3.1\CashMachineDomain.AssemblyInfoInputs.cache
+C:\_TestesGitHub1\Caixa\CashMachineDomain\obj\Debug\netcoreapp3.1\CashMachineDomain.AssemblyInfo.cs
+C:\_TestesGitHub1\Caixa\CashMachineDomain\obj\Debug\netcoreapp3.1\CashMachineDomain.csproj.CoreCompileInputs.cache
+C:\_TestesGitHub1\Caixa\CashMachineDomain\obj\Debug\netcoreapp3.1\CashMachineDomain.dll
+C:\_TestesGitHub1\Caixa\CashMachineDomain\obj\Debug\netcoreapp3.1\CashMachineDomain.pdb
+C:\Caixa\CashMachineDomain\bin\Debug\netcoreapp3.1\CashMachineDomain.deps.json
+C:\Caixa\CashMachineDomain\bin\Debug\netcoreapp3.1\CashMachineDomain.dll
+C:\Caixa\CashMachineDomain\bin\Debug\netcoreapp3.1\CashMachineDomain.pdb
+C:\Caixa\CashMachineDomain\obj\Debug\netcoreapp3.1\CashMachineDomain.csproj.AssemblyReference.cache
+C:\Caixa\CashMachineDomain\obj\Debug\netcoreapp3.1\CashMachineDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Caixa\CashMachineDomain\obj\Debug\netcoreapp3.1\CashMachineDomain.AssemblyInfoInputs.cache
+C:\Caixa\CashMachineDomain\obj\Debug\netcoreapp3.1\CashMachineDomain.AssemblyInfo.cs
+C:\Caixa\CashMachineDomain\obj\Debug\netcoreapp3.1\CashMachineDomain.csproj.CoreCompileInputs.cache
+C:\Caixa\CashMachineDomain\obj\Debug\netcoreapp3.1\CashMachineDomain.dll
+C:\Caixa\CashMachineDomain\obj\Debug\netcoreapp3.1\CashMachineDomain.pdb
+C:\3-Projeto-R.A.S\CashMachine_API\CashMachineDomain\bin\Debug\netcoreapp3.1\CashMachineDomain.deps.json
+C:\3-Projeto-R.A.S\CashMachine_API\CashMachineDomain\bin\Debug\netcoreapp3.1\CashMachineDomain.dll
+C:\3-Projeto-R.A.S\CashMachine_API\CashMachineDomain\bin\Debug\netcoreapp3.1\CashMachineDomain.pdb
+C:\3-Projeto-R.A.S\CashMachine_API\CashMachineDomain\obj\Debug\netcoreapp3.1\CashMachineDomain.csproj.AssemblyReference.cache
+C:\3-Projeto-R.A.S\CashMachine_API\CashMachineDomain\obj\Debug\netcoreapp3.1\CashMachineDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\3-Projeto-R.A.S\CashMachine_API\CashMachineDomain\obj\Debug\netcoreapp3.1\CashMachineDomain.AssemblyInfoInputs.cache
+C:\3-Projeto-R.A.S\CashMachine_API\CashMachineDomain\obj\Debug\netcoreapp3.1\CashMachineDomain.AssemblyInfo.cs
+C:\3-Projeto-R.A.S\CashMachine_API\CashMachineDomain\obj\Debug\netcoreapp3.1\CashMachineDomain.csproj.CoreCompileInputs.cache
+C:\3-Projeto-R.A.S\CashMachine_API\CashMachineDomain\obj\Debug\netcoreapp3.1\CashMachineDomain.dll
+C:\3-Projeto-R.A.S\CashMachine_API\CashMachineDomain\obj\Debug\netcoreapp3.1\CashMachineDomain.pdb

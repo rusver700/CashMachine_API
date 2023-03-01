@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WxCevfNZKoW5zontOtPIUZsER4kNAWxL002Ar3yK5xvRssFSSzID7tWW2+sY7sBu2WimPeQ8wP35fWMDSbqxyw==",
+  "success": true,
+  "projectFilePath": "C:\\3-Projeto-R.A.S\\CashMachine_API\\CashMachineIoC\\CashMachineIoC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rusve\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.0\\microsoft.extensions.dependencyinjection.abstractions.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
